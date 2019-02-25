@@ -60,4 +60,4 @@
     - iptables: всё остальное drop
 1. Написать smoke тесты на inSpec: 3.2.6 **
 
-[Схема](https://github.com/redj45/test_adm/blob/master/test_test_linux_adm%20(1).jpg)
+![Схема](https://github.com/redj45/test_adm/blob/master/test_test_linux_adm%20(1).jpg)
